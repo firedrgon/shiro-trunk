@@ -1,0 +1,14 @@
+/**/*.iml
+/.idea
+*.iml
+/target/
+*_my*.properties
+*_my*.xml
+/my-codegen
+.checkstyle
+.pmd
+rebel.xml
+*/bin/*
+**/.project
+*/.externalToolBuilders/*
+/.DS_Store
